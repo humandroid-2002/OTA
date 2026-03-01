@@ -1,0 +1,21 @@
+Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026022823.zip
+
+
+Initial Realise OTA Updater
+Added Gapps
+Added Stock motorola Timewheater
+Added Stock motorola Clock
+Added stock mototorola Dolby + Custom Audio Effects
+Added stock mototorla Widget 
+Added CPU Powerhint 
+Added Blur support
+Added Stock MotCamera4
+Added Stock Gallery
+Deploated Rom from Aosp Camera And MathLog
+Added Bcr Support 
+Fixed CPU Temp Not Showing In AOD
+Fixed DT2W Not Working In AOD Mode
+Added Google Files and Google Calendar
+Reccomended Lunaris Launcher
+
+You Need KSUN V3 + SUSFS v2 + Custom Recovery Support TWRP or ORFX DM MY TG!
