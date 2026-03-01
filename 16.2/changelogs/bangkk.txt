@@ -1,28 +1,29 @@
-Changelog
-=========
+Changelogs
 
-01/03/2026
+==============
+||01/03/2026||
+==============
 
-Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026030108.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026030108.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.7-VANILLA-2026030119.zip
+
 ---------------
---Initial Realise OTA Updater
---Added Gapps
+--Initial Realise GAPPS/Vanilla
 --Added Stock motorola Timewheater
---added Stock motorola LiveWalpaper
 --Added Stock motorola AudioRecorder
 --Added Stock motorola Clock
 --Added stock mototorola Dolby + Custom Audio Effects
 --Added stock mototorla Widget 
---Tuned CPU Powerhint For Qpr2
+--ReTune powerhint for 16.2 Qpr2
 --Added Blur support
 --Added Stock MotCamera4
 --Added Stock Gallery
 --Deploated Rom from Aosp Camera And MathLog App
 --Added Bcr Support 
 --Fixed CPU Temp Not Showing In AOD
---Fixed DT2W Not Working In AOD Mode
+--Fixed DT2W
 --Added Google Files and Google Calendar
 --Reccomended Lunaris Launcher
 --Sync With Latest Lunaris Qpr2 Source
-
-You Need KSUN V3 + SUSFS v2 + Custom Recovery Support TWRP or ORFX DM MY TG!
+--Ksun V3.0.0 + Susfs V2.0 Supported
