@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Yama TG||@Medusa659",
+      "oem": "motorola",
+      "device": "bangkk",
+      "filename": "Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026022823.zip",
+      "download": "https://sourceforge.net/projects/my-project-open-source/files/16/files/bangkk/custom-roms/Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026022823.zip/download",
+      "timestamp": 1772320210,
+      "md5": "5d9d2c362097a82c70c6a74067d83a86",
+      "sha256": "60abbfb954b9dee8bf16372f737a481729579bc89d209e2b36f359ac9ec51314",
+      "size": 2503918201,
+      "version": "3.7",
+      "buildtype": "user",
+      "forum": "https://t.me/ilmiocanale659",
+      "gapps": "true",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/ilmiocanale659",
+      "dt": "",
+      "common-dt": "",
+      "kernel": "https://github.com/humandroid-2002/android_kernel_motorola_sm6375"
+    }
+  ]
+}
