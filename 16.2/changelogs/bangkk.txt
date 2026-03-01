@@ -4,7 +4,7 @@ Changelogs
 ||01/03/2026||
 ==============
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026030108.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026030122.zip
 
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.7-VANILLA-2026030119.zip
 
@@ -22,7 +22,7 @@ Changelogs
 --Deploated Rom from Aosp Camera And MathLog App
 --Added Bcr Support 
 --Fixed CPU Temp Not Showing In AOD
---Fixed DT2W
+--Fixed DT2W AOD Mode
 --Added Google Files and Google Calendar
 --Reccomended Lunaris Launcher
 --Sync With Latest Lunaris Qpr2 Source
