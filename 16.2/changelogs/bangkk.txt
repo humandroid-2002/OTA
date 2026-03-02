@@ -1,7 +1,7 @@
 Changelogs
 
 ==============
-||01/03/2026||
+||02/03/2026||
 ==============
 
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026030122.zip
@@ -14,6 +14,7 @@ Changelogs
 --Added Stock motorola AudioRecorder
 --Added Stock motorola Clock
 --Added stock mototorola Dolby + Custom Audio Effects
+--Added ViperFX Legacy Mode
 --Added stock mototorla Widget 
 --ReTune powerhint for 16.2 Qpr2
 --Added Blur support
