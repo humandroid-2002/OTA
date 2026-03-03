@@ -1,10 +1,10 @@
 Changelogs
 
 ==============
-||02/03/2026||
+||03/03/2026||
 ==============
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026030223.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-GMS-2026030318.zip
 
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.7-VANILLA-2026030221.zip
 
