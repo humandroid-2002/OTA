@@ -6,7 +6,7 @@ Changelogs
 
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.8-GMS-2026030318.zip
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.7-VANILLA-2026030221.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-VANILLA-2026030321.zip
 
 ---------------
 --Initial Realise GAPPS/Vanilla
