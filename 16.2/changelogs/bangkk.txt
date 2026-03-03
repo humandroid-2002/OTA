@@ -4,17 +4,18 @@ Changelogs
 ||02/03/2026||
 ==============
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026030122.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.7-GMS-2026030223.zip
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.7-VANILLA-2026030119.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.7-VANILLA-2026030221.zip
 
 ---------------
 --Initial Realise GAPPS/Vanilla
+--Added ViPER4AndroidFX
+--Added GameBar Support Bangkk
 --Added Stock motorola Timewheater
 --Added Stock motorola AudioRecorder
 --Added Stock motorola Clock
---Added stock mototorola Dolby + Custom Audio Effects
---Added ViperFX Legacy Mode
+--Added stock mototorola Dolby Dolbyui
 --Added stock mototorla Widget 
 --ReTune powerhint for 16.2 Qpr2
 --Added Blur support
