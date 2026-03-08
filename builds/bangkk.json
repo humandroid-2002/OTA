@@ -2,27 +2,24 @@
   "response": [
     {
       "maintainer": "Yama TG||@Medusa659",
+      "currently_maintained": true,
       "oem": "motorola",
       "device": "bangkk",
-      "filename": "Lunaris-AOSP-bangkk-OFFICIAL-3.8-GMS-2026030318.zip",
-      "download": "https://sourceforge.net/projects/my-project-open-source/files/16/files/bangkk/custom-roms/Lunaris3.8/Lunaris-AOSP-bangkk-OFFICIAL-3.8-GMS-2026030318.zip/download",
-      "timestamp": 1772561375,
-      "md5": "4fff95a8bd9717670163bc635b674c7a",
-      "sha256": "207865a2483b54c404491f0cd395b132a6880bdc9b3ac8148a5cc87eefc1879f",
-      "size": 2551939420,
-      "version": "3.8",
+      "filename": "LumineDroid-bellflower-20260307-OFFICIAL-lumine_bangkk.zip",
+      "download": "https://sourceforge.net/projects/my-project-open-source/files/16/files/bangkk/custom-roms/Bellflower/LumineDroid-bellflower-20260307-OFFICIAL-lumine_bangkk.zip/download",
+      "timestamp": 1772919393,
+      "md5": "f2bf6c2cdd6585c2e27b419f3185e2d6",
+      "sha256": "1e75f523588f792a7ab5ecb9fd3c55f5eddd64e5997cc77de3c356fd429bf029",
+      "size": 2269150762,
+      "version": "bellflower",
       "buildtype": "user",
-      "forum": "https://t.me/ilmiocanale659",
-      "gapps": "true",
+      "forum": "",
       "firmware": "",
-      "modem": "",
-      "bootloader": "",
-      "recovery": "",
       "paypal": "",
       "telegram": "https://t.me/ilmiocanale659",
-      "dt": "",
-      "common-dt": "",
-      "kernel": "https://github.com/humandroid-2002/android_kernel_motorola_sm6375"
+      "github": "",
+      "initial_installation_images": [],
+      "extra_images": []
     }
   ]
 }
