@@ -1,12 +1,12 @@
 Changelogs
 
 ==============
-||03/03/2026||
+||08/03/2026||
 ==============
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.8-GMS-2026030318.zip
+-->LumineDroid-bellflower-20260307-OFFICIAL-lumine_bangkk.zip
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.8-VANILLA-2026030321.zip
+
 
 ---------------
 --Initial Realise GAPPS/Vanilla
@@ -29,3 +29,37 @@ Changelogs
 --Reccomended Lunaris Launcher
 --Sync With Latest Lunaris Qpr2 Source
 --Ksun V3.0.0 + Susfs V2.0 Supported
+--Based on android-16.0.0_r4 BP4A
+--February security patch
+--Add statusbar clock customization
+--Allow user to custom shade blue effect
+--Reimplement font picker
+--Fix lockscreen pin transparant
+--Add support FaceUnlock
+--Add support AppLock
+--Add support CloneApp
+--Add support GameSpace
+--Add support black theme for dark mode
+--Add statusbar Network Traffic
+--Add incall vibration options
+--Add toggle for Smart 5G
+--Add three-fingers-swipe to screenshot
+--Add force full screen apps
+--Add less boring headsup option
+--Allow to change brightness slider positioning
+--Add QS show auto brightness
+--Allow using 4G icon instead LTE
+--Add Option to Display Data Disabled Indicator Icon
+--Add satusbar colored icons
+--Add pulse visualizer
+--Add lockscreen media art
+--Allow disabling ripple effect on unlock
+--Add spoofing features
+--Add advanced restart with global actions
+--Add LMOFreeform and Sidebar
+--Add font picker from ThemePicker
+--Allow toggling privacy indicator
+--Add show daily data usage in QS footer
+--Add toggle to enable brightness slider haptic feedback
+--Launcher 3 as default launcher
+--Silence logs spam
