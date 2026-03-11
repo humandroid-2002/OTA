@@ -1,6 +1,37 @@
 Changelogs
 
 ==============
+||11/03/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-GMS-2026030318.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-VANILLA-2026031108.zip
+
+---------------
+-- Switch back to clamp blur
+-- Minor music popup media player ui changes
+-- Improved Qs Lag With Qs boost
+-- Tuned DT2W
+-- Fixed CTS Google
+-- Update Susfs to latest 09/03/"26 Patches
+-- Update KsuN to v3.1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============
 ||03/03/2026||
 ==============
 
