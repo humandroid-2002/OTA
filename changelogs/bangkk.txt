@@ -1,6 +1,36 @@
 Changelogs
 
 ==============
+||17/03/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-GMS-2026031709.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-VANILLA-2026031108.zip
+
+---------------
+--> Repo Synced with latest source 12-03-"26 / 14-03-"26 / 17-03-"26
+-- init: Rm package cache on early boot
+-- Added few Audio + Video Codecs 1440p 2160p For a Decent video playback (tested with 4k24fps, 2k60fps on youtube) (I will Fix Telegram complain About External video Player In the next update)
+-- Improved Deepsleep and idle drain
+-- Add basic sleep mode
+-- Allow switch to legacy statusbar icon order
+-- Implement proper UI for per-app spoofing
+-- Add battery indicator in notch ring
+-- Hide ongoing action chip while QS panel is expanded
+-- Fix hide developer mode search list crash
+-- Fix backup settings crash
+-- Add appdrawer searchbar location
+-- Dark text on appdrawer toggle
+-- Introduce appdrawer styles
+-- Add option to clear home screen in settings
+-- Fix footer settings long press crash
+
+
+
+Changelogs
+
+==============
 ||11/03/2026||
 ==============
 
