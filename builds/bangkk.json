@@ -12,16 +12,16 @@
       "size": 2552823435,
       "version": "3.8",
       "buildtype": "user",
-      "forum": "https://t.me/ilmiocanale659",
+      "forum": "https://xdaforums.com/t/rom-16-2-unofficial-lunarisos-for-motorola-g84-bangkk-stable.4780950/",
       "gapps": "true",
       "firmware": "",
       "modem": "",
       "bootloader": "",
-      "recovery": "",
+      "recovery": "https://sourceforge.net/projects/my-project-open-source/files/16/files/bangkk/images/Lunaris3.8/",
       "paypal": "",
-      "telegram": "https://t.me/ilmiocanale659",
-      "dt": "",
-      "common-dt": "",
+      "telegram": "https://t.me/Medusa659",
+      "dt": "https://github.com/humandroid-2002/android_device_motorola_bangkk",
+      "common-dt": "https://github.com/humandroid-2002/android_device_motorola_sm6375-common",
       "kernel": "https://github.com/humandroid-2002/android_kernel_motorola_sm6375"
     }
   ]
