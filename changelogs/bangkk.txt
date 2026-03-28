@@ -13,6 +13,7 @@ Changelogs
 -- Setting: Added battery cicle count
 -- Media: Adjust C2 HEVC/AVC limits and performance points to fix playback failures on high‑resolution videos improved videos/film Quality
 -- Powerhint: Tuned Cpu And Gpu LUNCH on boot And INTERACTION on Normal Use  
+-- AOD Changed Cpu temp to Big Cluster 2 being the one of those that works the most and therefore heats up compared to the Little Cluster.
 -- Setting: Added SystemUI Restart Option
 -- enable scroll optimization properties for heavy apps
 -- Media: Tuned and prioritize AOSP HEVC decoder (c2.android) over QTI
