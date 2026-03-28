@@ -1,6 +1,46 @@
 Changelogs
 
 ==============
+||28/03/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-GMS-2026032818.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-VANILLA-2026031108.zip
+
+---------------
+--> Repo Synced with latest source 27-03-"26
+-- Setting: Added battery cicle count
+-- Media: Adjust C2 HEVC/AVC limits and performance points to fix playback failures on high‑resolution videos improved videos/film Quality
+-- Powerhint: Tuned Cpu And Gpu LUNCH on boot And INTERACTION on Normal Use  
+-- Setting: Added SystemUI Restart Option
+-- enable scroll optimization properties for heavy apps
+-- Media: Tuned and prioritize AOSP HEVC decoder (c2.android) over QTI
+-- Sepolicy: sepolicy: Allow audio enhancements (ViperFX) And fix Some AVC Denials
+-- audio: Enable Dolby DAP (DS2) support
+-- Kernel: Switch To 'performance' governor  
+- Bring back gradient style**
+- Drop useless timeout changes from idlemanager
+- Use default privacy chip background color for location also
+- Disable smartspace when using custom clock
+- Add classic a11 like QS panel style**
+- Update flex font
+- add 21 new clock style
+- Add custom clock aod transition animation
+- Add Glow effect in notch ring
+- Add ongoing chip opacity control
+- New custom clock selection UI
+- Merge new lineage changes
+- Improve freeform app scrolling
+- Add clear history in idlemanager dashboard
+- Improve idlemanager device idle state detection
+- Fix ongoing chip media art visibility issue
+
+
+
+Changelogs
+
+==============
 ||17/03/2026||
 ==============
 
