@@ -11,7 +11,7 @@ Changelogs
 ---------------
 --> Repo Synced with latest source 27-03-"26
 -- Setting: Added battery cicle count
--- Media: Adjust C2 HEVC/AVC limits and performance points to fix playback failures on high‑resolution videos improved videos/film Quality
+-- Media: Adjust C2 HEVC/AVC limits and performance points to fix playback failures on high‑resolution videos So apps Stop Complain About not supported Resolution improved videos/film Quality
 -- Powerhint: Tuned Cpu And Gpu LUNCH on boot And INTERACTION on Normal Use  
 -- AOD Changed Cpu temp to Big Cluster 2 being the one of those that works the most and therefore heats up compared to the Little Cluster.
 -- Setting: Added SystemUI Restart Option
