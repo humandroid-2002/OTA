@@ -1,6 +1,29 @@
 Changelogs
 
 ==============
+||31/03/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-GMS-2026032818.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-VANILLA-2026033111.zip
+
+---------------
+--> Repo Synced with latest source 30-03-"26 / 31-03-"26
+-- Fixed Screen Recording
+- Add lockscreen now playing popup dialog
+- Some fixes in color customisation
+- Enable bubble notification app
+- Improve ongoing chip miniplayer popup animation
+- Allow disable qs media player
+- Introduce navbar pill auto-hide (for launcher3 only)
+- Fix AiMode Button in pixel style searchbar
+- Turn app drawer sort feature into a preference
+
+
+Changelogs
+
+==============
 ||28/03/2026||
 ==============
 
