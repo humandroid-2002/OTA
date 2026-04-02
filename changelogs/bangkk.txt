@@ -1,6 +1,29 @@
 Changelogs
 
 ==============
+||01/04/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.9-GMS-2026040119.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.8-VANILLA-2026033111.zip
+
+---------------
+--> Repo Synced with latest source 31-03-"26
+-- 1 april security patch
+-- Improve performance and UI smoothness
+-- Tune Dalvik heap parameters for better performance
+-- Enable USAP pool for faster app launches
+-- Add madvise settings for dex/odex optimization
+-- Enable latch_unsignaled for smoother UI rendering
+-- Keep GL backpressure enabled
+
+
+
+
+Changelogs
+
+==============
 ||31/03/2026||
 ==============
 
