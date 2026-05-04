@@ -9,16 +9,13 @@ Changelogs
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.9-VANILLA-2026040209.zip
 
 ---------------
-Repo Synced with latest source 04-05-"26
-
-
-
-
-
-
-
-
-
+-->Repo Synced with latest source 04-05-"26
+-- KernelsuNext V3.2.0
+-- Susfs V2.1.0
+-- Improved Kernel Performance
+-- Improved UI Smothness
+-- Improved Wifi Perfomance 
+-- All New Lunaris feature Added
 
 
 
