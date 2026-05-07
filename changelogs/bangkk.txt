@@ -1,7 +1,7 @@
 Changelogs
 
 ==============
-||01/04/2026||
+||07/05/2026||
 ==============
 
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.9-GMS-2026050416.zip
@@ -9,14 +9,21 @@ Changelogs
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.9-VANILLA-2026040209.zip
 
 ---------------
--->Repo Synced with latest source 04-05-"26
+-->Repo Synced with latest source 06-05-"26
 -- KernelsuNext V3.2.0
 -- Susfs V2.1.0
 -- Improved Kernel Performance
 -- Improved UI Smothness
 -- Improved Wifi Perfomance 
 -- All New Lunaris feature Added
-
+-- Erofs for Gms Build EXT4 for Vanilla
+-- added BBR less lag and faster internet
+-- TCP_NODELAY forced for lower latency
+-- Added sched Cass for CPU for more responsive app UI/less lag under load/maintains high compatibility with the stock kernel and does not impact the battery
+-- dex2oat optimizations
+-- improved Wi-Fi 5Ghz quality
+-- Fixed Screen recording Lag
+-- fixed some AVC denial 
 
 
 
