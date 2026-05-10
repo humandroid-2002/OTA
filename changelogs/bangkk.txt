@@ -4,9 +4,37 @@ Changelogs
 ||07/05/2026||
 ==============
 
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-GMS
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-VANILLA-2026051009.zip
+
+---------------
+-->Repo Synced with latest source 09-05-"26
+-- Fixed vbmeta/AVB misconfiguration in the previous Vanilla build caused GApps to not persist after reboot
+- Switch to tricky store implementation
+- Fix ios8 clock size
+- Depth clock unlock delay
+- Fix screen flicker when exiting freeform mode
+- Fix fp icon now showing in aod
+- Improve keyguard charging info
+- Dynamic bar optimization
+- Sandbox optimization
+- Boot process high cpu usage, reduce load after reboot and slow load
+- Optimizing wallpaper zoom
+- Drop broken screen-off aod animation
+- Add back hide app from launcher
+- Add 2 clocks with a colon( : )
+
+
+Changelogs
+
+==============
+||07/05/2026||
+==============
+
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.10-GMS-2026050704.zip
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.10-VANILLA-2026050705.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-VANILLA-2026050705.zip (Dropped)
 
 ---------------
 -->Repo Synced with latest source 06-05-"26
