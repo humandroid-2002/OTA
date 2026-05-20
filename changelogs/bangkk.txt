@@ -1,6 +1,33 @@
 Changelogs
 
 ==============
+||20/05/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-GMS-2026052005.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-VANILLA-2026052006.zip
+
+---------------
+-->Repo Synced with latest source 19-05-"26
+-- Moved Dynamic Bar under UDFPS icon
+-  Add skydrove color customisation for clock style
+-  Add option to browse all clocks
+-  Add Statusbar brightness
+-  Update some clock size and add new clocks
+-  Add option in idle manager to trigger only when sleep mode on
+-  Enable power button gemini animation
+-  L3 popup unlock animation
+-  Fix performance issues with OneUI app drawer style
+-  Add initial split qs option
+-  Fix app lock notification issue
+
+
+
+
+Changelogs
+
+==============
 ||10/05/2026||
 ==============
 
