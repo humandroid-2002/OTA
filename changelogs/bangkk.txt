@@ -1,6 +1,42 @@
 Changelogs
 
 ==============
+||24/05/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-GMS-2026052408.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-VANILLA-2026052415.zip
+
+---------------
+-->Repo Synced with latest source 24-05-"26
+-  Improve qs pulldown animation in split qs
+-  Update dynamic bar color tokens
+-  Replace quickspace oos clock color polling with static split color
+-  Fix volume slider fill not hiding at zero volume
+-  Fix slider widget inner slider corner radius when set rounded
+-  Fixed dynamic bar collapse event
+-  Align dynamic bar expanded cards to top center
+-  Add haptics in qs widget sliders
+-  Disable split notification shade when split QS on in landscape (temp)
+-  Rework more custom clocks
+-  Add weather support in some clocks
+-  Fix dynamic bar extended media text color in lightmode
+-  Add left/right swipes gesture in split qs
+-  Fix always-on haptics mode triggering visual pulse
+-  Fix shake gestures ringer mode not working
+-  Replace white flashbang during screen wakeup in lightmode with proper scrim
+-  Use directional swipe for split qs (WIP)
+-  Enable material3 for document UI (file manager)
+
+
+
+
+
+
+Changelogs
+
+==============
 ||20/05/2026||
 ==============
 
