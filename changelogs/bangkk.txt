@@ -9,6 +9,23 @@ Changelogs
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.10-VANILLA-2026052415.zip
 
 ---------------
+-->Repo 24-05-"26
+-- Added Custom Recovery Built-in By default in GMS and Vanilla variant.
+-- Tuned Gpu Cpu for Perfomance
+-- Fixed some avc Denial
+-- Nothing New you can skip this update
+
+Changelogs
+
+==============
+||24/05/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-GMS-2026052408.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-VANILLA-2026052415.zip
+
+---------------
 -->Repo Synced with latest source 24-05-"26
 -  Improve qs pulldown animation in split qs
 -  Update dynamic bar color tokens
