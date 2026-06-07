@@ -6,7 +6,7 @@ Changelogs
 
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.11-GMS-2026060716.zip
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.10-VANILLA-2026052415.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.11-VANILLA-2026060720.zip
 
 ---------------
 -->Repo Synced with latest source 05-06-"26
