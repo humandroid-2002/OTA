@@ -1,12 +1,52 @@
 Changelogs
 
 ==============
-||24/05/2026||
+||07/06/2026||
 ==============
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.10-GMS-2026052408.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.11-GMS-2026060716.zip
 
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.10-VANILLA-2026052415.zip
+
+---------------
+-->Repo Synced with latest source 05-06-"26
+-- New Kernel Security Patch level latest 2026-06-05
+-- Updated Custom recovery Security Patch level
+-- Fixed Battery drain on Previous Update
+-- Fixed All Lag
+-- Fixed CPU/GPU overheating the phone caused by excessive tweaking
+-- Switch Back to OpenGL Previous build Was on Vulkan
+-- Tweak SurfaceFlinger from 20ms to 12,5ms For Smoother UI
+- Check the Lunaris Telegram channel for what's new in v3.11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Changelogs
+
+==============
+||02/06/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-GMS-2026060217.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.10-VANILLA-2026060212.zip
 
 ---------------
 -->Repo 24-05-"26
