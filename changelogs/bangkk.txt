@@ -1,23 +1,7 @@
 Changelogs
 
 ==============
-||07/06/2026||
-==============
-
--->Lunaris-AOSP-bangkk-OFFICIAL-3.11-GMS-2026060716.zip
-
--->Lunaris-AOSP-bangkk-OFFICIAL-3.11-VANILLA-2026060720.zip
-
----------------
--->Repo Synced with latest source 05-06-"26
-
-
-
-
-Changelogs
-
-==============
-||07/06/2026||
+||21/06/2026||
 ==============
 
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.11-GMS-2026062115.zip
@@ -26,12 +10,12 @@ Changelogs
 
 ---------------
 -->Repo Synced with latest source 20-06-"26
--- BB improved 
+-- This Build is Battery Backup oriented As someone reported Battery drain  
 -- Added AOSP Camera 
--- Motcamera4 Fixed ultra res, picture, and HDR
+-- Motcamera4 Fixed ultra res, picture, HDR
 -- Fixed Auto brightness
--- and more need to check commits but i'm too lazy
--- Didn't find bug please report so can be fixed
+-- and more need to check commit but i'm too lazy
+-- Didn't find bug, If you Find please report so can be fixed
 
 
 Changelogs
