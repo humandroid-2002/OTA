@@ -10,32 +10,28 @@ Changelogs
 
 ---------------
 -->Repo Synced with latest source 05-06-"26
--- New Kernel Security Patch level latest 2026-06-05
--- Updated Custom recovery Security Patch level
--- Fixed Battery drain on Previous Update
--- Fixed All Lag
--- Fixed CPU/GPU overheating the phone caused by excessive tweaking
--- Switch Back to OpenGL Previous build Was on Vulkan
--- Tweak SurfaceFlinger from 20ms to 12,5ms For Smoother UI
-- Check the Lunaris Telegram channel for what's new in v3.11
 
 
 
 
+Changelogs
 
+==============
+||07/06/2026||
+==============
 
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.11-GMS-2026062115.zip
 
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.11-VANILLA-2026062117.zip
 
-
-
-
-
-
-
-
-
-
-
+---------------
+-->Repo Synced with latest source 20-06-"26
+-- BB improved 
+-- Added AOSP Camera 
+-- Motcamera4 Fixed ultra res, picture, and HDR
+-- Fixed Auto brightness
+-- and more need to check commits but i'm too lazy
+-- Didn't find bug please report so can be fixed
 
 
 Changelogs
