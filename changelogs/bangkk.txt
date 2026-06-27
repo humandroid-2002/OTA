@@ -15,6 +15,7 @@ Changelogs
 -- Bring Back Pixel Launcher and Animated Walpapers
 -- Fix a bug that occurs when the phone Restart it stuck at 60hz 
 -- Switch to Lunaris Sony Dolby.
+-- Drop Duplicated App like Meteo, clock, Files, and other Motorola app Not needed. 
 -- Updated Kernel with latest Changes.
 -- this release is from Test branch and have some A17 New feature idk which ones are.
 -- if you want BUILT-IN ofox recovery i can add it back let me now.
