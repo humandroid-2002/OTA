@@ -1,6 +1,28 @@
 Changelogs
 
 ==============
+||27/06/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.11-GMS-2026062115.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.11-VANILLA-2026062117.zip
+
+---------------
+-->Repo Synced with latest source 26-06-"26
+-- Improve MotCamera. Gphotos may no longer Work properly Because Motcamera4 Depends on Gphotos For Picture Mode option Like backup and restore may no longer Work as is patched to allow MotCamera4 to use Gphoto To enhance picture let me now if you want this feature or no.
+-- Fixed HDR again to work properly i Wanna drop Aperture Camera but idk so keep it for now.
+-- Bring Back Pixel Launcher and Animated Walpapers
+-- Fix a bug that occurs when the phone Restart it stuck at 60hz 
+-- Switch to Lunaris Sony Dolby.
+-- Updated Kernel with latest Changes.
+-- this release is from Test branch and have some A17 New feature idk which ones are.
+-- if you want BUILT-IN ofox recovery i can add it back let me now.
+thank you for reading this!
+
+Changelogs
+
+==============
 ||21/06/2026||
 ==============
 
