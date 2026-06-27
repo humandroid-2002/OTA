@@ -10,7 +10,7 @@ Changelogs
 
 ---------------
 -->Repo Synced with latest source 26-06-"26
--- Improve MotCamera. Not releasead as update maybe Some one need WOrking Gphots . Gphotos may no longer Work properly Because Motcamera4 Depends on Gphotos For Picture Mode option Like backup and restore may no longer Work as is patched to allow MotCamera4 to use Gphoto To enhance picture let me now if you want this feature or no if you want this feature sideload Lunaris-AOSP-bangkk-OFFICIAL-3.11-GMS-2026062704.zip
+-- Improve MotCamera. Check Post in thread '[ROM][16.2][UNOFFICIAL] LunarisOS for Motorola G84 [bangkk][STABLE]' https://xdaforums.com/t/rom-16-2-unofficial-lunarisos-for-motorola-g84-bangkk-stable.4780950/post-90642165
 -- Fixed HDR again to work properly i Wanna drop Aperture Camera but idk so keep it for now.
 -- Bring Back Pixel Launcher and Animated Walpapers
 -- Fix a bug that occurs when the phone Restart it stuck at 60hz 
