@@ -1,6 +1,45 @@
 Changelogs
 
 ==============
+||30/08/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.12-GMS-2026082923.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.12-VANILLA-2026083007.zip
+
+---------------
+-->Repo Synced with latest source 29-08-"26
+-  merge latest lineage changes
+-- Battery Cycle Count support from kernel
+-- Battery Cycle count support in settings
+-- Battery improvement for system-backgroud, background, top-app, foreground added deep sleep on standby  
+-- Performance Mode on camera-daemon and interaction
+-- Touch boost
+-- Removed Math-log 
+-- Disabled Blur
+-- All Rom are compiled with Optimization for Cortex-A76 and cortex-a55 CPU to improve performance in native executables This will allow the system to perform specific optimizations improving workload for performance and power efficiency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Changelogs
+
+==============
 ||01/07/2026||
 ==============
 
