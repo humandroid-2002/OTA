@@ -1,6 +1,41 @@
 Changelogs
 
 ==============
+||10/09/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.12-GMS-2026091012.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.12-VANILLA-2026091018.zip
+
+---------------
+--> Repo Synced with latest source 10-09-"26
+-- Torch Strength leveler
+-- KernelSU-Next Updated to latest version 3.3.0 (33264)
+-- SUSFS Update to 2.3.0
+-- Merged latest kernel changes from Lineage
+-- Introduced scheduler-bore
+-- Dropped LZKD compression
+-- Lowered tick-rate from 1000 to 100
+-- BBR and TCP still supported; install the Fatal Coder module from here https://github.com/fatalcoder524/TCP_Optimiser_Module
+-- Lowered the CPU and GPU a little bit to reduce heat on interaction
+-- Added some props for SurfaceFlinger and MotoCamera
+-- Reworked audio effects and audio policy
+-- Introduced support for HDR Dolby Vision with HDR10, HLG, and HDR10+
+-- Re-enabled Blur Ghostuso fixed stutter issue 
+
+Here lunaris repo Changes;
+Merged September patch
+Dropped IdleManager dead code
+Merged Lineage changes
+Updated NOSAtmosphereEffect
+Some bitmap scale tuning and other fixes
+Refreshed Keyguard chip battery text on KIC indication updates
+Dropped messy blur algorithm changes
+
+Changelogs
+
+==============
 ||30/08/2026||
 ==============
 
@@ -20,23 +55,6 @@ Changelogs
 -- Disabled Blur
 -- All Rom are compiled with Optimization for Cortex-A76 and cortex-a55 CPU to improve performance in native executables This will allow the system to perform specific optimizations improving workload for performance and power efficiency.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Changelogs
 
 ==============
@@ -50,12 +68,6 @@ Changelogs
 ---------------
 -->Repo Synced with latest source 30-06-"26
 -- Fix in-call audio routing to earpiece (always using speakerphone)
-
-
-
-
-
-
 
 Changelogs
 
@@ -98,7 +110,6 @@ Changelogs
 -- Fixed Auto brightness
 -- and more need to check commit but i'm too lazy
 -- Didn't find bug, If you Find please report so can be fixed
-
 
 Changelogs
 
@@ -148,11 +159,6 @@ Changelogs
 -  Use directional swipe for split qs (WIP)
 -  Enable material3 for document UI (file manager)
 
-
-
-
-
-
 Changelogs
 
 ==============
@@ -176,9 +182,6 @@ Changelogs
 -  Fix performance issues with OneUI app drawer style
 -  Add initial split qs option
 -  Fix app lock notification issue
-
-
-
 
 Changelogs
 
@@ -207,7 +210,6 @@ Changelogs
 - Add back hide app from launcher
 - Add 2 clocks with a colon( : )
 
-
 Changelogs
 
 ==============
@@ -235,8 +237,6 @@ Changelogs
 -- Fixed Screen recording Lag
 -- fixed some AVC denial 
 
-
-
 Changelogs
 
 ==============
@@ -256,9 +256,6 @@ Changelogs
 -- Add madvise settings for dex/odex optimization
 -- Enable latch_unsignaled for smoother UI rendering
 -- Keep GL backpressure enabled
-
-
-
 
 Changelogs
 
@@ -281,7 +278,6 @@ Changelogs
 - Introduce navbar pill auto-hide (for launcher3 only)
 - Fix AiMode Button in pixel style searchbar
 - Turn app drawer sort feature into a preference
-
 
 Changelogs
 
@@ -322,8 +318,6 @@ Changelogs
 - Improve idlemanager device idle state detection
 - Fix ongoing chip media art visibility issue
 
-
-
 Changelogs
 
 ==============
@@ -352,8 +346,6 @@ Changelogs
 -- Add option to clear home screen in settings
 -- Fix footer settings long press crash
 
-
-
 Changelogs
 
 ==============
@@ -372,8 +364,6 @@ Changelogs
 -- Fixed CTS Google
 -- Update Susfs to latest 09/03/"26 Patches
 -- Update KsuN to v3.1.0
-
-
 
 Changelogs
 
