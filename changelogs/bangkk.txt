@@ -10,7 +10,7 @@ Changelogs
 
 ---------------
 --> Repo Synced with latest source 10-09-"26
--- Torch Strength leveler
+-- Torch Strength (Keep pressed Torch Icon)
 -- KernelSU-Next Updated to latest version 3.3.0 (33264)
 -- SUSFS Update to 2.3.0
 -- Merged latest kernel changes from Lineage
