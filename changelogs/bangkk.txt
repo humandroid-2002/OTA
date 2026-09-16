@@ -1,6 +1,27 @@
 Changelogs
 
 ==============
+||17/09/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.12-GMS-2026091611.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.12-VANILLA-2026091018.zip
+
+---------------
+-- Fixed Battery Stats
+-- Improved Torch Strength control
+-- Dropped Battery Cycle Count support in kernel ( From Settings not Yet )
+-- Improved GPS using Google NTP Server
+-- Fixed an issue where the screen would get stuck at 60Hz after reboot, requiring 120Hz to be re-enabled in Settings
+-- Fixed CPU frequency spikes that could cause unnecessary power consumption
+Here lunaris repo Changes;
+Nothing New From Lunaris
+
+
+Changelogs
+
+==============
 ||10/09/2026||
 ==============
 
