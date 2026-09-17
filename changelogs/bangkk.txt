@@ -6,7 +6,7 @@ Changelogs
 
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.12-GMS-2026091611.zip
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.12-VANILLA-2026091018.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.12-VANILLA-2026091701.zip
 
 ---------------
 -- Fixed Battery Stats
