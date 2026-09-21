@@ -1,6 +1,25 @@
 Changelogs
 
 ==============
+||21/09/2026||
+==============
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.12-GMS-2026092104.zip
+
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.12-VANILLA-2026091701.zip
+
+---------------
+--> Repo Synced with latest source 20-09-"26
+-- Improved fluidity
+Here lunaris repo Changes;
+- merge r8 patch and lineage changes
+- Allow disable wallpaper zoom globally
+- Decouple/separate lock screen oos music pill from Dynamic Bar
+
+
+Changelogs
+
+==============
 ||17/09/2026||
 ==============
 
@@ -9,6 +28,7 @@ Changelogs
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.12-VANILLA-2026091701.zip
 
 ---------------
+--> Repo Synced with latest source 10-09-"26
 -- Fixed Battery Stats
 -- Improved Torch Strength control
 -- Dropped Battery Cycle Count support in kernel ( From Settings not Yet )
