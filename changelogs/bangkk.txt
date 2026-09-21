@@ -6,11 +6,14 @@ Changelogs
 
 -->Lunaris-AOSP-bangkk-OFFICIAL-3.12-GMS-2026092104.zip
 
--->Lunaris-AOSP-bangkk-OFFICIAL-3.12-VANILLA-2026091701.zip
+-->Lunaris-AOSP-bangkk-OFFICIAL-3.12-VANILLA-2026092111.zip
 
 ---------------
 --> Repo Synced with latest source 20-09-"26
 -- Improved fluidity
+-- update kernelsu driver
+-- added susfs for spoofing avc support
+
 Here lunaris repo Changes;
 - merge r8 patch and lineage changes
 - Allow disable wallpaper zoom globally
